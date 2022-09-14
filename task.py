@@ -1,5 +1,4 @@
 #access command line argument through the system module(sys)
-from calendar import c
 import sys
 #math is a module in python
 import math
